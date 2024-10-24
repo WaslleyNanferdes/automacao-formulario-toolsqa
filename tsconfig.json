@@ -1,0 +1,23 @@
+
+{
+    "compilerOptions": {
+        "target": "ESNext",
+        "module": "ESNext",
+        "moduleResolution": "node",
+        "baseUrl": "./",
+        "rootDir": "./",
+        "allowImportingTsExtensions": true,
+        "noEmit": true,
+        "strict": true,
+        "strictFunctionTypes": true,
+        "strictNullChecks": true,
+        "alwaysStrict": true,
+        "noUnusedLocals": true,
+        "noUnusedParameters": true,
+        "noFallthroughCasesInSwitch": true,
+        "skipLibCheck": true,
+        "noImplicitReturns": true,
+        "noImplicitAny": true,
+    },
+    "include": ["src/**/*"]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "automacao-formulario-toolsqa",
+  "version": "1.0.0",
+  "description": "Exercício de automação para formulários desenvolvido pela [ToolsQA](https://toolsqa.com/)",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsx src/index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/chromedriver": "^81.0.5",
+    "@types/selenium-webdriver": "^4.1.26",
+    "tsx": "^4.19.1",
+    "typescript": "^5.6.3"
+  },
+  "dependencies": {
+    "chromedriver": "^130.0.0",
+    "selenium-webdriver": "^4.25.0"
+  }
+}
